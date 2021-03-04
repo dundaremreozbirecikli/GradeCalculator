@@ -1,0 +1,3 @@
+C:/Users/dunda/CLionProjects/GradeCalculator/cmake-build-debug/CMakeFiles/GradeCalculator.dir
+C:/Users/dunda/CLionProjects/GradeCalculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dunda/CLionProjects/GradeCalculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
